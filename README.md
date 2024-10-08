@@ -1,8 +1,8 @@
-<h1 align="center">hello 👋 what's up?</h1>
+<h1 align="center"⚔︎</h1>
 
 ###
 
-<p align="center">Hello, I'm a brazilian software developer with advanced knowledge in design and databases. I currently have a degree in Systems Analysis and Development, and I'm looking for opportunities to prove my knowledge! I started my career in early 2022, patiently and strategically I got involved in extension projects that involved front-end and back-end work. After learning a lot, I got an internship at a design and branding company, where I stayed for 7 months as the sole person responsible for creating websites.</p>
+<p align="center">A brazilian software developer with advanced knowledge in design and databases.</p>
 
 ###
 
