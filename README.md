@@ -37,15 +37,3 @@
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBzaXlpcnQ2YmR1YjZnYzFoZXY3bmg5YzY4dHV3bTN2ZHFsbGpmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu6MhHC5HXxQvSw/giphy.gif"  />
 </div>
 
-###
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelprimo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=samuelprimo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A4OHprbmY5b2oyd29yNmpyNHUxNnd0NDN1bHd5NXc1a2Q4cno0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otPoTlFoMYNs9vCp2/giphy.gif"  />
-</div>
-
-###
