@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Main in:</h3>
+<h3 align="center">main in:</h3>
 
 ###
 
