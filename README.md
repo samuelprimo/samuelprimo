@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A brazilian software developer with advanced knowledge in design and databases.</p>
+<p align="center">idk</p>
 
 ###
 
