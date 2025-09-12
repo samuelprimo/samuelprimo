@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">idk</p>
+<p align="center">MSc student</p>
 
 ###
 
